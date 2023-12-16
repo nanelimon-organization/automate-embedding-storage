@@ -7,7 +7,8 @@ This project involves an automated process of extracting text from PDFs, generat
 
 # Qdrant Collection Snapshot 📘
 
-<img width="1783" alt="Qdrant Collection Snapshot" src="https://github.com/Teknofest-Nane-Limon/Borusan.AutoHack-QdrantEmbed/assets/83168207/7051a30a-82a7-4c65-9ced-b1141097f80a">
+![Qdrant Collection Snapshot](https://github.com/Teknofest-Nane-Limon/Borusan.AutoHack-QdrantEmbed/assets/83168207/b5b77ad5-26d0-4ed9-99f3-8babb1fd197a)
+
 
 ## Features 🌟
 - **PDF Text Extraction**: Convert PDF documents into manageable text chunks.
