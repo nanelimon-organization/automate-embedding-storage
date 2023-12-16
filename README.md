@@ -5,9 +5,9 @@ Welcome to the BorusanAuto-EmbedStorage repository, the hub for innovative PDF p
 ## About the Project 📈
 This project involves an automated process of extracting text from PDFs, generating embeddings using Azure OpenAI ``text-embedding-ada-002``model, and efficiently storing these embeddings in a Qdrant database for advanced search and retrieval.
 
-# Qdrant Collection Snapshot 📘
-
-![Qdrant Collection Snapshot](https://github.com/Teknofest-Nane-Limon/Borusan.AutoHack-QdrantEmbed/assets/83168207/b5b77ad5-26d0-4ed9-99f3-8babb1fd197a)
+| Qdrant Collection Snapshot 📘 |
+|--------|
+| ![Qdrant Collection Snapshot](https://github.com/Teknofest-Nane-Limon/Borusan.AutoHack-QdrantEmbed/assets/83168207/b5b77ad5-26d0-4ed9-99f3-8babb1fd197a)   |
 
 
 ## Features 🌟
