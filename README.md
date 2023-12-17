@@ -1,9 +1,14 @@
-# BorusanAuto-EmbedStorage 🚗💡📚
+<img width="1146" alt="image" src="https://github.com/Teknofest-Nane-Limon/automate-embedding-storage/assets/83168207/e1dbb295-5ba8-4822-bb2c-5edb8a8283b1"># BorusanAuto-EmbedStorage 🚗💡📚
 
 Welcome to the BorusanAuto-EmbedStorage repository, the hub for innovative PDF processing and data embedding techniques developed during the Borusan AutoHackathon.
 
 ## About the Project 📈
 This project involves an automated process of extracting text from PDFs, generating embeddings using Azure OpenAI ``text-embedding-ada-002``model, and efficiently storing these embeddings in a Qdrant database for advanced search and retrieval.
+
+| BorusanOto 🚗 - Embeddings Workflow Diagram 🌟 |
+|--------|
+| <img width="1146" alt="image" src="https://github.com/Teknofest-Nane-Limon/automate-embedding-storage/assets/83168207/20b729c5-f415-44e8-a188-10ae6b7ae222"> |
+
 
 | Qdrant Collection Snapshot 📘 |
 |--------|
